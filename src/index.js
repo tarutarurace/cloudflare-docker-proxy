@@ -17,7 +17,7 @@ const routes = {
   "ecr.tricej.us.kg": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.tricej.us.kg": dockerHub,
 };
 
 function routeByHosts(host) {
